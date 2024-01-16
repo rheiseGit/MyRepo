@@ -1,6 +1,6 @@
 # MyRepo
-Eine Beispielrepo
+Ein Beispielrepo
 
 hallo
-Guten Tag
+Raspberry
 hallo
